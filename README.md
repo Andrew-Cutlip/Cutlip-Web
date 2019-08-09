@@ -1,2 +1,0 @@
-# Cutlip-Web
-Personal Website
